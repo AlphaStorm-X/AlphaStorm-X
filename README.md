@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌐 Socials:
+[LinkedIn](https://linkedin.com/in/Monika Yadav) email
+
+💻 Tech Stack:
+C Python TailwindCSS Azure AWS Apache Adobe Acrobat Reader Adobe Photoshop Canva Figma GitLab Java Git GitHub
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
+
+
