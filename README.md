@@ -1,5 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=50&animation=scaleIn)
-
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=scaleIn)
 
 
 # 💫 Hi 👋, I'm Monika Yadav
