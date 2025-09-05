@@ -72,9 +72,6 @@ Open Source for Beginners • GitHub tips • HTML/CSS/Tailwind • Python basic
 
 ---
 
-## 🔝 Top Contributed Repo:
-<img width="495" height="120" alt="Top Repo" src="https://github.com/user-attachments/assets/227b48a5-ef54-4d35-9e8d-878fbcafd15b" />
-
 
 
 
