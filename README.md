@@ -36,9 +36,13 @@ Open Source for Beginners • GitHub tips • HTML/CSS/Tailwind • Python basic
 ---
 
 ## 🌐 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/monika-yadav-874224329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/monika-yadav-874224329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -71,7 +75,6 @@ Open Source for Beginners • GitHub tips • HTML/CSS/Tailwind • Python basic
 <img width="908" height="110" alt="Trophies" src="https://github.com/user-attachments/assets/114aaab4-6bbe-4890-82f8-b8baecd6cfc1" />
 
 ---
-
 
 
 
