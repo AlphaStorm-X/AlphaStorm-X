@@ -59,8 +59,7 @@ Open Source for Beginners • GitHub tips • HTML/CSS/Tailwind • Python basic
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter%20notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) !
 
 ---
 
@@ -70,11 +69,5 @@ Open Source for Beginners • GitHub tips • HTML/CSS/Tailwind • Python basic
 <img width="495" height="195" alt="GitHub Languages" src="https://github.com/user-attachments/assets/ef21094f-3829-4c77-9679-1a8936689ef3" />
 
 ---
-
-## 🏆 GitHub Trophies:
-<img width="908" height="110" alt="Trophies" src="https://github.com/user-attachments/assets/114aaab4-6bbe-4890-82f8-b8baecd6cfc1" />
-
----
-
 
 
