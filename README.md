@@ -78,3 +78,4 @@ Open Source for Beginners • GitHub tips • HTML/CSS/Tailwind • Python basic
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Thanks Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=✨%20Thanks%20for%20Visiting!%20✨&fontSize=45&fontAlignY=40&animation=twinkling)
 
+
