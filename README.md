@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/AlphaStorm-X">
-    <img src="https://img.shields.io/badge/GitHub-Aivexh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-AlphaStorm-X-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/monika-yadav-874224329/">
     <img src="https://img.shields.io/badge/LinkedIn-Monika%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -88,46 +88,6 @@ Problem Solving
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-<h3>🧬 Hyperion</h3>
-
-<p> A self-improving AI agent framework exploring evolutionary improvement of agent behavior across generations. </p>
-
-<p> <b>Stack</b><br> <code>Python</code> <code>FastAPI</code> <code>LangGraph</code> <code>Streamlit</code> <code>Docker</code> </p>
-
-<a href="https://github.com/Aivexh/Hyperion"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>🛡️ RegretShield</h3>
-
-<p> An ML system that predicts customer return probability before purchase and explores intervention strategies. </p>
-
-<p> <b>Stack</b><br> <code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> <code>Machine Learning</code> </p>
-
-<a href="https://github.com/Aivexh/RegretShield"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00A67E?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>🔊 EchoPredict</h3>
-
-<p> A predictive-maintenance system exploring equipment failure prediction using sequential sensor data. </p>
-
-<p> <b>Stack</b><br> <code>Python</code> <code>CNN</code> <code>LSTM</code> <code>Deep Learning</code> </p>
-
-<a href="https://github.com/Aivexh/EchoPredict"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a>
-</td>
-
-</tr> </table>
 
 # 🧠 Technical Stack
 
@@ -169,99 +129,8 @@ Problem Solving
 ---
 
 
-<p>
-  <a href="https://leetcode.com/u/aivexh/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
-
----
-
-# 📊 GitHub Intelligence
-
-<p align="center">
-  <img
-    src="https://ghstats.dev/api/card?username=Aivexh&theme=dracula&hide=stars%2Cactive_day%2Cavg%2Ctrend%2Chours%2Cissues%2Cfollowers"
-    alt="GitHub Stats Card"
-  />
-  <img
-    src="https://ghstats.dev/api/langs?username=Aivexh&theme=dracula"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://ghstats.dev/api/sparkline?username=Aivexh&theme=dracula&days=30&width=320&height=80"
-    alt="Contribution Sparkline"
-  />
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aivexh&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
 
 
-
-
-# 🏆 Beyond Code
-
-Alongside development, I actively participate in technical communities and student initiatives.
-
-* 🎯 **Deputy Tech Head — Tarang Society**
-* 🛠️ Organized technical workshops and a mini hackathon
-* 🤝 Interested in open-source collaboration
-* 🧠 Learning through practical projects and technical communities
-
----
-
-# 📚 Currently Learning
-
-```text
-Advanced Machine Learning
-        ↓
-Deep Learning
-        ↓
-AI Agent Architectures
-        ↓
-LLM Applications
-        ↓
-FastAPI & Backend Engineering
-        ↓
-Docker & Deployment
-        ↓
-System Design
-        ↓
-Data Structures & Algorithms
-```
-
----
-
-# 🧪 Engineering Philosophy
-
-```python
-while not_done:
-
-    learn()
-    build()
-    test()
-    debug()
-    improve()
-    ship()
-```
-
-> I believe the fastest way to learn engineering is to **build systems, break them, understand why they broke, and improve them.**
-
----
 
 
 My goal is to grow into an engineer who can **design, build, evaluate, and deploy intelligent systems end-to-end**.
@@ -272,7 +141,7 @@ My goal is to grow into an engineer who can **design, build, evaluate, and deplo
 
 <p align="center">
   <a href="https://github.com/AlphaStorm-X">
-    <img src="https://img.shields.io/badge/GitHub-Aivexh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-AlphaStorm-X-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/monika-yadav-874224329/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="mailto:monikay7084@gmail.com">
