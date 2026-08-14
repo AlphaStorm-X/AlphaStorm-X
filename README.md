@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aivexh">
+  <a href="https://github.com/AlphaStorm-X">
     <img src="https://img.shields.io/badge/GitHub-Aivexh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/monika-yadav-874224329/">
@@ -271,7 +271,7 @@ My goal is to grow into an engineer who can **design, build, evaluate, and deplo
 # 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Aivexh">
+  <a href="https://github.com/AlphaStorm-X">
     <img src="https://img.shields.io/badge/GitHub-Aivexh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/monika-yadav-874224329/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
@@ -290,7 +290,7 @@ My goal is to grow into an engineer who can **design, build, evaluate, and deplo
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Aivexh&style=flat-square&color=7C3AED"
+    src="https://komarev.com/ghpvc/?username=AlphaStorm-X&style=flat-square&color=7C3AED"
     alt="Profile Views"
   />
 </p>
